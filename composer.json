@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-nabawi-lineage-tree",
+  "description": "Verified Prophetic Genealogy Tree (Nasab Shareef up to Adnan) (شجرة النسب النبوي الشريف العدنانية الموثقة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
